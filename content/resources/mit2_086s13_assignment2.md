@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding assignment 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-spring-2013/d488ec8e3d9bc9a604ae9d4fa3febcc9_MIT2_086S13_assignment2.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/d488ec8e3d9bc9a604ae9d4fa3febcc9_MIT2_086S13_assignment2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 2.086 Numerical Computation for Mechanical Engineers, Assignment 2
 uid: d488ec8e-3d9b-c9a6-04ae-9d4fa3febcc9

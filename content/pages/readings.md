@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 13eadd1c-7d4a-4106-4930-ec5343af938b
 ---
 
 All readings are from the textbook: Masayuki Yano, et al. _Math, Numerics, and Programming (for Mechanical Engineers)_. V2.1, August 2013. Files for each available unit are provided in the following table, courtesy of the authors. [The entire textbook is available for download as a single file.](#textbook)
 
-Students should read all of the assignments for the unit before proceeding to the associated [Problem Sets](http://ocw2.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-spring-2013/assignments/) and the [MATLAB® Tutorials](http://ocw2.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-spring-2013/matlab-exercises/). In general, students should skip the advanced material in the textbook. This advanced material is indicated either by blue shading or by blue "Advanced Material" bookends.
+Students should read all of the assignments for the unit before proceeding to the associated [Problem Sets]({{< baseurl >}}/pages/assignments) and the [MATLAB{{< sup "®" >}} Tutorials]({{< baseurl >}}/pages/matlab-exercises). In general, students should skip the advanced material in the textbook. This advanced material is indicated either by blue shading or by blue "Advanced Material" bookends.
 
 {{< tableopen >}}
 {{< theadopen >}}

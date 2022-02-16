@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 16.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-086-numerical-computation-for-mechanical-engineers-spring-2013/2ff01b4e9a230556cc2b86d2d0d4f93d_MIT2_086S13_lecture16.pdf
+file: /media/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/2ff01b4e9a230556cc2b86d2d0d4f93d_MIT2_086S13_lecture16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "2.086 Numerical Computation for Mechanical Engineers, Lecture 16: Ordinary\
   \ Differential Equations: \u201CStiff\u201D Equations"
