@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section contains videos of the class robot.
 is_media_gallery: true
 learning_resource_types:
 - Videos

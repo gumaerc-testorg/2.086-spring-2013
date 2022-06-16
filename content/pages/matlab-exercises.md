@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the MATLAB exercises and tutorials used during
+  recitation sections.
 learning_resource_types: []
 ocw_type: CourseSection
 title: MATLAB Tutorials
@@ -43,7 +45,7 @@ No MATLAB tutorial.
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-[MATLAB Basics (M)]({{< baseurl >}}/resources/matlab_basics_matlab_tutorial)
+{{% resource_link eac74596-d5d5-85b6-3208-cf631d5cc855 "MATLAB Basics (M)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ R2
 R3
 {{< tdclose >}}
 {{< tdopen >}}
-[Single Index Arrays (M)]({{< baseurl >}}/resources/single_index_arrays_matlab_tutorial)
+{{% resource_link 5e6be71f-b1ec-9cba-c14f-3d3e699a2d43 "Single Index Arrays (M)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ R3
 R4
 {{< tdclose >}}
 {{< tdopen >}}
-[Functions (ZIP)]({{< baseurl >}}/resources/functions_matlab_tutorial) (This file contains 5 .M files.)
+{{% resource_link 1479e9dc-d936-650a-1faf-6e735daa2d45 "Functions (ZIP)" %}} (This file contains 5 .M files.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ R4
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-[Double Index Arrays (M)]({{< baseurl >}}/resources/double_index_arrays_matlab_tutorial)
+{{% resource_link b351bd9a-76dd-ed05-9b5e-e34a6b2c67e6 "Double Index Arrays (M)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ R5
 R6
 {{< tdclose >}}
 {{< tdopen >}}
-[Matrix/Vector Operations and Least Squares (M)]({{< baseurl >}}/resources/matrix_operations_and_least_squares_tutorial)
+{{% resource_link ce56ebb6-e8b5-335e-9c91-ffd007e42c67 "Matrix/Vector Operations and Least Squares (M)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ No MATLAB tutorial.
 R8
 {{< tdclose >}}
 {{< tdopen >}}
-[MATLAB eig (M)]({{< baseurl >}}/resources/eigenvalues_and_eigenvectors_using_eig)
+{{% resource_link 987c67b9-47ff-9d12-2100-f1dc67702b1f "MATLAB eig (M)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ R9
 {{< tdopen >}}
 
 
-[Passing Functions (Handles); Anonymous Functions; MATLAB ode45 (ZIP)]({{< baseurl >}}/resources/recitation_9)  
+{{% resource_link 87956599-fad5-73f5-274c-4056773ec884 "Passing Functions (Handles); Anonymous Functions; MATLAB ode45 (ZIP)" %}}  
 (This file contains 3 .M files and 1 .png file.)
 
 
@@ -157,7 +159,7 @@ R11/R12
 
 {{< tdclose >}}
 {{< tdopen >}}
-[MATLAB Sparse Matrices and Backslash (M)]({{< baseurl >}}/resources/matlab_sparse_and_backslash)
+{{% resource_link 8a0a5e79-5921-f76f-2211-a24cbc310f4c "MATLAB Sparse Matrices and Backslash (M)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +183,7 @@ No MATLAB tutorial.
 R14
 {{< tdclose >}}
 {{< tdopen >}}
-[MATLAB fsolve (M)]({{< baseurl >}}/resources/fsolve_matlab_tutorial)
+{{% resource_link b7b74363-21d7-da53-8bbd-dee8ab23ddc4 "MATLAB fsolve (M)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

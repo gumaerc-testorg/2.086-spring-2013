@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, software
+  requirements, course objectives, textbook information, assessment, and class policies
+  on collaboration, late submissions, and make-up work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -48,7 +51,7 @@ A commitment to always test codes thoroughly and to always provide with any nume
 Course Textbook
 ---------------
 
-The textbook for the course is the online textbook _Math, Numerics, & Programming (for Mechanical Engineers)_ by M. Yano, J.D. Penn, G. Konidaris, and A.T. Patera, and is available for download in the [Readings]({{< baseurl >}}/pages/readings) section.
+The textbook for the course is the online textbook _Math, Numerics, & Programming (for Mechanical Engineers)_ by M. Yano, J.D. Penn, G. Konidaris, and A.T. Patera, and is available for download in the {{% resource_link 13eadd1c-7d4a-4106-4930-ec5343af938b "Readings" %}} section.
 
 Assessment
 ----------

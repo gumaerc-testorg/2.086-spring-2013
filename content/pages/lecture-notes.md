@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the professor's
+  handwritten lecture notes that were used to teach the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,9 +41,9 @@ Numerical Calculus Part 1
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 1 Notes (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_086s13_lecture1)
+{{% resource_link c9315cc2-bb64-24ed-bad8-20f355116e5e "Lecture 1 Notes (PDF - 1.2MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Interpolation Cheat Sheet (PDF)]({{< baseurl >}}/resources/mit2_086s13_lec1cheatsheet)
+{{% resource_link f8ee5596-ed24-0d17-6828-3d8bd130c157 "Interpolation Cheat Sheet (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -55,7 +57,7 @@ Numerical Calculus Part 1
 Numerical Calculus Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture2)
+{{% resource_link 93b40cae-710b-4c24-4fb9-bd811ca452ea "Lecture 2 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Numerical Calculus Part 2
 Numerical Calculus Part 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 3 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture3)
+{{% resource_link 52076842-106a-74a0-bd08-c51fa1651eb5 "Lecture 3 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +87,7 @@ Numerical Calculus Part 3
 Probability and Statistics Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 4 Notes (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_086s13_lecture4)
+{{% resource_link dffefb35-7198-d11f-e138-48dcd672bb4c "Lecture 4 Notes (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,9 +101,9 @@ Probability and Statistics Part 2
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Lecture 5 Notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_086s13_lecture5)
+{{% resource_link "5df5bed1-ae05-9388-ecc4-e2e0991ed0f0" "Lecture 5 Notes (PDF - 1.4MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 5 Notes–Annotated (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_086s13_lect5notannot)
+{{% resource_link 5dda8971-3678-6eca-1fce-675214a9cdc1 "Lecture 5 Notes–Annotated (PDF - 1.4MB)" %}}
 
 
 {{< tdclose >}}
@@ -115,7 +117,7 @@ Probability and Statistics Part 2
 Probability and Statistics Part 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 6 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture6)
+{{% resource_link a1999fe2-32e3-c813-1ffe-8ff2529e5b30 "Lecture 6 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Probability and Statistics Part 3
 Probability and Statistics Part 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 7 Notes (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_086s13_lecture7)
+{{% resource_link fb09f874-8384-0905-620f-aa5a21c77b88 "Lecture 7 Notes (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ Probability and Statistics Part 4
 Probability and Statistics Part 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 8 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture8)
+{{% resource_link caa101a7-e1a2-fec4-fd0b-d73faf27f31e "Lecture 8 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +159,7 @@ Probability and Statistics Part 5
 Linear Algebra 1 Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 9 Notes (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_086s13_lecture9)
+{{% resource_link 6553c573-1490-8085-ed75-d0875abd76ec "Lecture 9 Notes (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +171,7 @@ Linear Algebra 1 Part 1
 Linear Algebra 1 Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 10 Notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_086s13_lecture10)
+{{% resource_link 71caa3b6-338b-6afa-3482-86fecb954ab8 "Lecture 10 Notes (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +183,7 @@ Linear Algebra 1 Part 2
 Linear Algebra 1 Part 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture11)
+{{% resource_link 78b55250-94ec-aa8c-07ae-07b2b672a6c0 "Lecture 11 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +219,7 @@ Special Topic: MATLAB Programming and [Arduino](http://www.arduino.cc/) Part 2
 Linear Algebra 1 Coda
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 14 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture14)
+{{% resource_link f70402b7-0459-16be-6ec3-439ab55d0c78 "Lecture 14 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +237,7 @@ Linear Algebra 1 Coda
 Ordinary Differential Equations Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 15 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture15)
+{{% resource_link e9114381-9402-431f-1114-cbfaba7aa1fd "Lecture 15 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +249,7 @@ Ordinary Differential Equations Part 1
 Ordinary Differential Equations Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture16)
+{{% resource_link 2ff01b4e-9a23-0556-cc2b-86d2d0d4f93d "Lecture 16 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +261,7 @@ Ordinary Differential Equations Part 2
 Ordinary Differential Equations Part 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 17 Notes (PDF - 1.4MB)]({{< baseurl >}}/resources/mit2_086s13_lecture17)
+{{% resource_link a6f45c07-1d5a-2406-b794-898b8750e360 "Lecture 17 Notes (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +279,7 @@ Ordinary Differential Equations Part 3
 Linear Algebra 2 Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 18 Notes (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_086s13_lecture18)
+{{% resource_link 9a497c9f-bca3-1ceb-85da-831373bfd744 "Lecture 18 Notes (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +291,7 @@ Linear Algebra 2 Part 1
 Linear Algebra 2 Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 19 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture19)
+{{% resource_link 476fa952-db06-9e36-6d5a-3f48e2dcc146 "Lecture 19 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +303,7 @@ Linear Algebra 2 Part 2
 Linear Algebra 2 Part 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 20 Notes (PDF - 1.3MB)]({{< baseurl >}}/resources/mit2_086s13_lecture20)
+{{% resource_link 8fd854a5-6e86-882f-7cb5-7187b4375870 "Lecture 20 Notes (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +333,7 @@ No notes for this lecture.
 Nonlinear Problems Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 22 Notes (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_086s13_lecture22)
+{{% resource_link f97ae65d-3aa0-47ed-2427-216a7319a811 "Lecture 22 Notes (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +345,7 @@ Nonlinear Problems Part 1
 Nonlinear Problems Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 23 Notes (PDF)]({{< baseurl >}}/resources/mit2_086s13_lecture23)
+{{% resource_link 8ca55557-ee3d-de44-6742-8dbed8181d80 "Lecture 23 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -385,7 +387,7 @@ No notes for this lecture.
 Additional Topics
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 26 Notes (PDF - 1.5MB)]({{< baseurl >}}/resources/mit2_086s13_lecture26)
+{{% resource_link 02d9d72d-bc2c-868f-ec3f-1e79f6235e0e "Lecture 26 Notes (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
