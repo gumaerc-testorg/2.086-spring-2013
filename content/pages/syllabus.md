@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, software
+  requirements, course objectives, textbook information, assessment, and class policies
+  on collaboration, late submissions, and make-up work.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d082c2d0-a313-a154-909a-59f61b714b17
 ---
@@ -14,7 +19,7 @@ Recitations: 1 session / week, 3 hours / session
 Software
 --------
 
-This course is based on MATLAB®. MIT students can run MATLAB on their own laptops, or use the shared machines in the class recitation/lab room.
+This course is based on MATLAB{{< sup "®" >}}. MIT students can run MATLAB on their own laptops, or use the shared machines in the class recitation/lab room.
 
 \[_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html)® directly.\]
 
@@ -46,7 +51,7 @@ A commitment to always test codes thoroughly and to always provide with any nume
 Course Textbook
 ---------------
 
-The textbook for the course is the online textbook _Math, Numerics, & Programming (for Mechanical Engineers)_ by M. Yano, J.D. Penn, G. Konidaris, and A.T. Patera, and is available for download in the [Readings]({{< baseurl >}}/pages/readings) section.
+The textbook for the course is the online textbook _Math, Numerics, & Programming (for Mechanical Engineers)_ by M. Yano, J.D. Penn, G. Konidaris, and A.T. Patera, and is available for download in the {{% resource_link 13eadd1c-7d4a-4106-4930-ec5343af938b "Readings" %}} section.
 
 Assessment
 ----------

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of topics covered for each course quiz
+  and a self-study guide for the second quiz.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 8f05a37a-5f26-2ab3-87c5-c0d7f605d998
 ---
@@ -24,7 +29,7 @@ QUIZZES
 Units I-II
 {{< tdclose >}}
 {{< tdopen >}}
-[Quiz 1 Announcement (PDF)]({{< baseurl >}}/resources/mit2_086s13_quiz1_announ)
+{{% resource_link 73736e92-97b7-d286-8459-01faf30e3632 "Quiz 1 Announcement (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,9 +40,9 @@ Units III-IV
 {{< tdopen >}}
 
 
-[Quiz 2 Announcement (PDF)]({{< baseurl >}}/resources/mit2_086s13_quiz2_announ)
+{{% resource_link 13ae9df6-af0e-653c-e83e-d859a58c40d7 "Quiz 2 Announcement (PDF)" %}}
 
-[Quiz 2 Self-Study Guide (PDF)]({{< baseurl >}}/resources/mit2_086s13_quiz2_selfstud)
+{{% resource_link 4466187e-306b-84af-9b06-59cf051b980d "Quiz 2 Self-Study Guide (PDF)" %}}
 
 
 {{< tdclose >}}

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, class activities,
+  and assignment due dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 43ac393b-69fd-4fd4-4cca-8f80af2b469c
 ---
@@ -62,7 +66,7 @@ Numerical Calculus Part 2
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-No MATLAB® tutorial.
+No MATLAB{{< sup "®" >}} tutorial.
 {{< tdclose >}}
 {{< tdopen >}}
  

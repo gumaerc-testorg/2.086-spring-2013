@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section contains videos of the class robot.
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: CourseSection
 title: Videos
 uid: fd899a26-d089-bfe5-0c4d-724baf105a50
 videos:

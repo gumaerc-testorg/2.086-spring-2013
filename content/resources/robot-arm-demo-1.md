@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Robot Arm Demo
 uid: 57c47eac-6d6c-5ee8-3d84-9fab0df00614
 video_files:
@@ -15,3 +27,4 @@ video_metadata:
 ---
 
 **Description :** Video of a 2.086 robot arm tracking a specified trajectory. (Courtesy of James Penn. Used with permission.)
+
