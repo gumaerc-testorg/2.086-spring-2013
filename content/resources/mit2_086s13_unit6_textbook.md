@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Math, Numerics, and Programming (for Mechanical Engineers) Textbook \u20
 uid: 60af88c6-58ba-3e83-cdf7-c43289aeb5b4
 ---
 This resource contains information regarding textbook unit 6.
-

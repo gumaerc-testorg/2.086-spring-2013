@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: friction_data.mat
 uid: 453ebca8-b597-c72e-d51b-c19fc9a7b941
 ---
 This is a special file related to friction data file.
-

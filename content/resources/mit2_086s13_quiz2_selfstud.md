@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.086 Numerical Computation for Mechanical Engineers, Quiz 2 Self Study G
 uid: 4466187e-306b-84af-9b06-59cf051b980d
 ---
 This file contains information regarding quiz 2 self study.
-

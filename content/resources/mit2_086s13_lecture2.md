@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '2.086 Numerical Computation for Mechanical Engineers, Lecture 2: Integra
 uid: 93b40cae-710b-4c24-4fb9-bd811ca452ea
 ---
 This file contains information regarding lecture 2.
-

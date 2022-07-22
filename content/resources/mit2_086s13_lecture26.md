@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.086 Numerical Computation for Mechanical Engineers, Lecture 26: Introd
 uid: 02d9d72d-bc2c-868f-ec3f-1e79f6235e0e
 ---
 This file contains information regarding lecture 26.
-

@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.086 Numerical Computation for Mechanical Engineers, Quiz 1 Announcement
 uid: 73736e92-97b7-d286-8459-01faf30e3632
 ---
 This file contains information regarding quiz 1 announcement.
-

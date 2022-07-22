@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.086 Numerical Computation for Mechanical Engineers, Assignment 6
 uid: 2b9f1bb1-b0fc-53e2-7105-bcbed479332c
 ---
 This file contains information regarding assignment 6.
-

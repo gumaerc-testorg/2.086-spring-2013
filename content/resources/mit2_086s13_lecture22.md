@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "2.086 Numerical Computation for Mechanical Engineers, Lecture 22: Nonlin
 uid: f97ae65d-3aa0-47ed-2427-216a7319a811
 ---
 This file contains information regarding lecture 22.
-

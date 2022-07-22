@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "2.086 Numerical Computation for Mechanical Engineers, Lecture 5: Notes\u
 uid: 5dda8971-3678-6eca-1fce-675214a9cdc1
 ---
 This file contains information regarding lecture 5 notes–annotated.
-

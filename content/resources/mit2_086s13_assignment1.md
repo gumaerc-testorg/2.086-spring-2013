@@ -5,6 +5,7 @@ file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT2_086S13_assignment1.pdf
 uid: dfdc8e33-b5e4-5ce1-a72f-e1b48e69c631
 ---
 This file contains information regarding assignment 1.
-
