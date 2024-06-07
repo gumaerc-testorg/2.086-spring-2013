@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding textbook unit 2.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/fd865317e0944f006caa101628b82699_MIT2_086S13_Unit2_Textbook.pdf
+file_size: 1955063
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file related matlab basics.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/eac74596d5d585b63208cf631d5cc855_Matlab_Basics_Matlab_Tutorial.m
+file_size: 5286
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

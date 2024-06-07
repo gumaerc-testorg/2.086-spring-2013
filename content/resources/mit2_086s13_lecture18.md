@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 18.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/9a497c9fbca31ceb85da831373bfd744_MIT2_086S13_lecture18.pdf
+file_size: 1123148
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
