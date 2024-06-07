@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a special file related to templates. '
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/fa47b42cb895b0328d8079ff48704a82_Assignment_2_Templates.zip
+file_size: 3602
 file_type: application/zip
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file related double index arrays matlab tutorial.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/b351bd9a76dded059b5ee34a6b2c67e6_Double_Index_Arrays_MATLAB_Tutorial.m
+file_size: 2922
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
