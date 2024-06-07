@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding quiz 2 announcement.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/13ae9df6af0e653ce83ed859a58c40d7_MIT2_086S13_quiz2_Announ.pdf
+file_size: 134398
 file_type: application/pdf
 learning_resource_types:
 - Exams

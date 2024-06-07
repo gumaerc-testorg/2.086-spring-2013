@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file related fsolve matlab tutorial.
 file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/b7b7436321d7da538bbddee8ab23ddc4_fsolve_MATLAB_Tutorial.m
+file_size: 4401
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
