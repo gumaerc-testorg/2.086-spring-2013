@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding quiz 2 self study.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/4466187e306b84af9b0659cf051b980d_MIT2_086S13_quiz2_selfstud.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/4466187e306b84af9b0659cf051b980d_MIT2_086S13_quiz2_selfstud.pdf
 file_size: 208208
 file_type: application/pdf
 learning_resource_types:

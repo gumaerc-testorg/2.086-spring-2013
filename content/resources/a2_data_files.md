@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to data files.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/4ff4ea9c09adccbb190bc1cb6dd890d7_A2_data_files.zip
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/4ff4ea9c09adccbb190bc1cb6dd890d7_A2_data_files.zip
 file_size: 1751
 file_type: application/zip
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related matlab eig Tutorial.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/987c67b947ff9d122100f1dc67702b1f_Eigenvalues_and_Eigenvectors_using_eig.m
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/987c67b947ff9d122100f1dc67702b1f_Eigenvalues_and_Eigenvectors_using_eig.m
 file_size: 2629
 file_type: text/x-objcsrc
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related single index arrays.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/5e6be71fb1ec9cbac14f3d3e699a2d43_Single_Index_Arrays_Matlab_Tutorial.m
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/5e6be71fb1ec9cbac14f3d3e699a2d43_Single_Index_Arrays_Matlab_Tutorial.m
 file_size: 1487
 file_type: text/x-objcsrc
 learning_resource_types: []
