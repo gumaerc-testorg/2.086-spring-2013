@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related matlab sparse matrices and backslash tutorial.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/8a0a5e795921f76f2211a24cbc310f4c_Matlab_Sparse_and_Backslash.m
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/8a0a5e795921f76f2211a24cbc310f4c_Matlab_Sparse_and_Backslash.m
 file_size: 1147
 file_type: text/x-objcsrc
 learning_resource_types: []
