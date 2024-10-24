@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related matlab ode45 tutorial.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/87956599fad573f5274c4056773ec884_Recitation_9.zip
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/87956599fad573f5274c4056773ec884_Recitation_9.zip
 file_size: 14116
 file_type: application/zip
 learning_resource_types: []

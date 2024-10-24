@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file related to grade-o-matic. '
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/71c27a57bd8f21fe1eb03a2dcc5c1c96_Assignment_3_Gradeomatic.zip
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/71c27a57bd8f21fe1eb03a2dcc5c1c96_Assignment_3_Gradeomatic.zip
 file_size: 3475
 file_type: application/zip
 learning_resource_types:
