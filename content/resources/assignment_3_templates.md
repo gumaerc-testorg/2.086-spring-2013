@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This is a special file related to templates. '
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/0052bb4f805035ac9461df56aba98844_Assignment_3_Templates.zip
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/0052bb4f805035ac9461df56aba98844_Assignment_3_Templates.zip
 file_size: 1282
 file_type: application/zip
 learning_resource_types:

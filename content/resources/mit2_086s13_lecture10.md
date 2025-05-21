@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 10.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/71caa3b6338b6afa348286fecb954ab8_MIT2_086S13_lecture10.pdf
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/71caa3b6338b6afa348286fecb954ab8_MIT2_086S13_lecture10.pdf
 file_size: 1447623
 file_type: application/pdf
 learning_resource_types:
