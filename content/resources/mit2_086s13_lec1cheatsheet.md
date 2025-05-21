@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding lecture 1 interpolation cheat
   sheet.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/f8ee5596ed240d1768283d8bd130c157_MIT2_086S13_lec1Cheatsheet.pdf
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/f8ee5596ed240d1768283d8bd130c157_MIT2_086S13_lec1Cheatsheet.pdf
 file_size: 651639
 file_type: application/pdf
 learning_resource_types:

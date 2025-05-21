@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding textbook unit 6.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/60af88c658ba3e83cdf7c43289aeb5b4_MIT2_086S13_Unit6_Textbook.pdf
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/60af88c658ba3e83cdf7c43289aeb5b4_MIT2_086S13_Unit6_Textbook.pdf
 file_size: 1046173
 file_type: application/pdf
 learning_resource_types:

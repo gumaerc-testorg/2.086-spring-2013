@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to friction data file.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/453ebca8b597c72ed51bc19fc9a7b941_friction_data.mat
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/453ebca8b597c72ed51bc19fc9a7b941_friction_data.mat
 file_size: 747
 file_type: application/octet-stream
 learning_resource_types:

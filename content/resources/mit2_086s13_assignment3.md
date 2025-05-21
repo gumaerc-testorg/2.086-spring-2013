@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding assignment 3.
-file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/11c1b7d67da960342b50390bfbc37a71_MIT2_086S13_assignment3.pdf
+file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/11c1b7d67da960342b50390bfbc37a71_MIT2_086S13_assignment3.pdf
 file_size: 463993
 file_type: application/pdf
 learning_resource_types:
