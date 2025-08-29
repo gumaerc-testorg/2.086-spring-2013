@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 13eadd1c-7d4a-4106-4930-ec5343af938b
 ---
-All readings are from the textbook: Masayuki Yano, et al. *Math, Numerics, and Programming (for Mechanical Engineers)*. V2.1, August 2013. Files for each available unit are provided in the following table, courtesy of the authors. [The entire textbook is available for download as a single file.](#textbook)
+All readings are from the textbook: Masayuki Yano, et al. *Math, Numerics, and Programming (for Mechanical Engineers)*. V2.1, August 2013. Files for each available unit are provided in the following table, courtesy of the authors. {{% resource_link "30d4d20d-b07c-42b2-b561-edba5030bf9c" "The entire textbook is available for download as a single file" %}}.
 
 Students should read all of the assignments for the unit before proceeding to the associated {{% resource_link "ad2666c1-b7aa-741d-9a13-6cbbc1fc4ec3" "Problem Sets" %}} and the {{% resource_link "15f1f215-a664-d130-07cb-ee14386c89fd" "MATLAB® Tutorials" %}}. In general, students should skip the advanced material in the textbook. This advanced material is indicated either by blue shading or by blue "Advanced Material" bookends.
 
@@ -20,7 +20,7 @@ READING ASSIGNMENTS
 {{< thclose >}}{{< thopen >}}
 Supporting Videos
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{< anchor "textbook" "/ans7870/2/2.086/S13/MIT2_086S13_Textbook.pdf" >}}Entire Textbook as a Single File (PDF - 29.0MB){{< /anchor >}}
+{{% resource_link "30d4d20d-b07c-42b2-b561-edba5030bf9c" "Entire Textbook as a Single File (PDF - 29.0MB)" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -51,7 +51,7 @@ MATLAB
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "6861791c-8782-2849-c458-2393a604d22e" "The Macro-Me Robot" %}}
+{{% resource_link "5a9e788e-867b-c37c-8b61-3e16ed6db874" "The Macro-Me Robot" %}}
 
 Video of a 2.086 robot performing IR range finding and odometry. (Courtesy of James Penn. Used with permission.)
 
@@ -101,7 +101,7 @@ MATLAB
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "ce107bc4-35fe-cb37-d30f-cbce868d330a" "The Macro-Me Robot: Friction Test" %}}
+{{% resource_link "618164bd-6ba0-7c59-a32c-b1ae7d8935df" "The Macro-Me Robot: Friction Test" %}}
 
 Video of a 2.086 robot attempting to push a load on two different surfaces. (Courtesy of James Penn. Used with permission.)
 
@@ -127,13 +127,13 @@ MATLAB:
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "55321d7f-2b1f-6e14-9d31-4fe6420c7c8d" "Macro-Me Suspension" %}}
+{{% resource_link "efb5d451-e91b-5d86-eddc-ada97d72c216" "Macro-Me Suspension" %}}
 
 Video of a 2.086 robot driving over a small bump at three different velocities. (Courtesy of James Penn. Used with permission.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-[Unit V. (Numerical) Linear Algebra 2: Solution of Linear Systems (PDF - 13.7MB)](/ans7870/2/2.086/S13/MIT2_086S13_Unit5_Textbook.pdf)
+[Unit V. (Numerical) Linear Algebra 2: Solution of Linear Systems (PDF - 13.7MB)](https://ocw-studio.odl.mit.edu/ans7870/2/2.086/S13/MIT2_086S13_Unit5_Textbook.pdf)
 
 - Chapter 24: Motivation
 - Chapter 25: Linear Systems
@@ -167,7 +167,7 @@ Math and Numerics and MATLAB
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "768de807-a51b-8e00-7419-eb438584fedd" "Robot Arm Demo" %}}
+{{% resource_link "57c47eac-6d6c-5ee8-3d84-9fab0df00614" "Robot Arm Demo" %}}
 
 Video of a 2.086 robot arm tracking a specified trajectory. (Courtesy of James Penn. Used with permission.)
 
