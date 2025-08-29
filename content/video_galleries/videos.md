@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: This section contains videos of the class robot.
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Videos
@@ -15,7 +16,4 @@ videos:
   - 57c47eac-6d6c-5ee8-3d84-9fab0df00614
   website: 2-086-numerical-computation-for-mechanical-engineers-spring-2013
 ---
-
-
 {{< video-gallery "fd899a26-d089-bfe5-0c4d-724baf105a50" >}}
-

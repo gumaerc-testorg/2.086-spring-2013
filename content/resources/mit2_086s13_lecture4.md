@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 4.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/dffefb357198d11fe13848dcd672bb4c_MIT2_086S13_lecture4.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/dffefb357198d11fe13848dcd672bb4c_MIT2_086S13_lecture4.pdf
 file_size: 1183733
 file_type: application/pdf
 learning_resource_types:

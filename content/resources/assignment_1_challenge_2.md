@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special file related to challenge 2 files.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/272689d7435b1d38809e47dc668e89a3_Assignment_1_Challenge_2.zip
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/272689d7435b1d38809e47dc668e89a3_Assignment_1_Challenge_2.zip
 file_size: 4477
 file_type: application/zip
 learning_resource_types:
