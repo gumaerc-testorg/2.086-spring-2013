@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This file contains information regarding lecture 5 notes\u2013annotated."
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/5dda897136786eca1fce675214a9cdc1_MIT2_086S13_lect5NotAnnot.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/5dda897136786eca1fce675214a9cdc1_MIT2_086S13_lect5NotAnnot.pdf
 file_size: 1481783
 file_type: application/pdf
 learning_resource_types:
