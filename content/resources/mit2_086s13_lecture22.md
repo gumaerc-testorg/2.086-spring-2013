@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 22.
-file: /courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/f97ae65d3aa047ed2427216a7319a811_MIT2_086S13_lecture22.pdf
+file: /ol-ocw-studio-app/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/f97ae65d3aa047ed2427216a7319a811_MIT2_086S13_lecture22.pdf
 file_size: 1228171
 file_type: application/pdf
 learning_resource_types:
