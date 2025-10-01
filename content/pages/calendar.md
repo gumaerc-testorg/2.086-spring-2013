@@ -266,7 +266,7 @@ Assignment 2 due
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Special Topic: MATLAB Programming and [Arduino](http://www.arduino.cc/) Part 1
+Special Topic: MATLAB Programming and {{% resource_link "762c5805-4087-45df-8a30-e63e7c85c46c" "Arduino" %}} Part 1
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -278,7 +278,7 @@ Special Topic: MATLAB Programming and [Arduino](http://www.arduino.cc/) Part 1
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Special Topic: MATLAB Programming and [Arduino](http://www.arduino.cc/) Part 2
+Special Topic: MATLAB Programming and {{% resource_link "762c5805-4087-45df-8a30-e63e7c85c46c" "Arduino" %}} Part 2
 {{< tdclose >}}
 {{< tdopen >}}
  

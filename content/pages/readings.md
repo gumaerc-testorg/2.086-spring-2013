@@ -133,7 +133,7 @@ Video of a 2.086 robot driving over a small bump at three different velocities. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-[Unit V. (Numerical) Linear Algebra 2: Solution of Linear Systems (PDF - 13.7MB)](https://ocw-studio.odl.mit.edu/ans7870/2/2.086/S13/MIT2_086S13_Unit5_Textbook.pdf)
+{{% resource_link "00a0fb0f-0c0a-4b7a-b888-8cf02ed692a9" "Unit V. (Numerical) Linear Algebra 2: Solution of Linear Systems (PDF - 13.7MB)" %}}
 
 - Chapter 24: Motivation
 - Chapter 25: Linear Systems

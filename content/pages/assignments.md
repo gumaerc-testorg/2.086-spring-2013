@@ -11,7 +11,7 @@ uid: ad2666c1-b7aa-741d-9a13-6cbbc1fc4ec3
 
 This page presents the assignments, along with supporting MATLAB{{< sup "®" >}} templates, datafiles and "Grade-o-Matic" files. Grade-o-Matic software files are codes that allow you to determine if your code is working, and your grade for each question. More information about Grade-o-Matic files can be found in {{% resource_link dfdc8e33-b5e4-5ce1-a72f-e1b48e69c631 "Assignment 1 (PDF - 1.4MB)" %}}.
 
-\[_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks®. For more information about [MATLAB Pricing and Licensing](http://www.mathworks.com/products/matlab/pricing_licensing.html?s_iid=ML2012_pricing_a#commercial_use), contact [The MathWorks](http://www.mathworks.com/index.html)® directly.\]
+\[_Note to OCW Users:_ MIT OpenCourseWare does not provide student access or discounts for {{% resource_link "b15bfcad-d06d-44c7-9f61-ebb7f0233dd5" "MATLAB software" %}}. It can be purchased from The MathWorks®. For more information about {{% resource_link "f513810c-2578-4773-b512-5712e66328f6" "MATLAB Pricing and Licensing" %}}, contact {{% resource_link "4d633ea6-628d-4883-bb3c-016734ea33dc" "The MathWorks" %}}® directly.\]
 
 {{< tableopen >}}
 {{< theadopen >}}
